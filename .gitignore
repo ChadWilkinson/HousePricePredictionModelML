@@ -1,0 +1,9 @@
+#Ignore all .txt files
+*.txt
+
+#Ignore all .docx files
+*.docx
+
+#Ignore documentation folders
+doc_liam
+doc_official
